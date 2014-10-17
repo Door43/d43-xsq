@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xsq:home|Door43 (xsq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xsq|d43-xsq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xsq/archive/master.zip|d43-xsq.zip]]
+
+**Recent Changes**
+{{changes>ns = xsq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xsq|Ethnologue data]]
+
